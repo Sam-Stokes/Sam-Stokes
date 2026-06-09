@@ -11,7 +11,7 @@ Full Stack Developer focused on building clean, scalable web applications.
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sam-Stokes&theme=dracula&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sam-Stokes&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&hide_border=true" />
       </td>
     </tr>
 </div>
